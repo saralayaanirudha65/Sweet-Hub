@@ -1,0 +1,38 @@
+.Main{
+    background-image: linear-gradient(rgb(3, 7, 1),rgb(52, 11, 117));
+}
+
+#fst
+{
+    border-color: orange;
+    border-inline-color: yellow;
+    box-sizing: border-box;
+    font-variant: inherit;
+    
+    
+
+    
+   
+
+}
+
+h3
+{
+    color: rgb(166, 255, 0);
+    font-family: cursive;
+    
+    
+}
+
+#s
+{
+    font-family: cursive;
+    height: fit-content;
+    font-size: large;
+    color: black;
+    background-color:lightblue;
+    font-weight: bolder;
+    text-shadow: 100%;
+    text-overflow: clip;
+    text-decoration-color: aliceblue;
+}

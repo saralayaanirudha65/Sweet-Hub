@@ -1,0 +1,14 @@
+footer {
+    font-family: cursive;
+    text-align: center;
+    display: center;
+    
+    animation-fill-mode: both;
+    font-display: swap;
+    height: fit-content;
+    margin:fit-content; 
+    margin-top: 5rem;
+    margin-right: fit-content;
+    
+  
+}
